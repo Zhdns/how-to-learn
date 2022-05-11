@@ -292,14 +292,13 @@ color: #2f80ed;
 .footer__column {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   margin: 0;
 }
 
-.footer__column_content_copyright{
+.footer__column_content_copyright {
   flex-basis: 711px;
+  justify-content: space-between;
 }
-
 
 .logo_place_footer{
   background-image: url(../images/logo_place_footer.svg);
