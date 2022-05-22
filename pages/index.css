@@ -1,7 +1,6 @@
 @import url(../root/root.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
-@import url(../blocks/logo/_theme/logo_theme-dark.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
