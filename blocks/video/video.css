@@ -1,0 +1,19 @@
+.video {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.video-iframes {
+  display: flex;
+  margin: 50px auto -60px auto;
+}
+
+.video-iframe {
+  border: none;
+}
+
+.video-iframe:nth-of-type(2n) {
+  margin-left: 20px;
+}
+
