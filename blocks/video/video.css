@@ -4,18 +4,18 @@
   align-items: center;
 }
 
-.video_iframes {
+.video__iframes {
   display: flex;
   margin: 50px auto -60px auto;
 }
 
-.video_iframe {
+.video__iframe {
   border: none;
   width: 560px;
   height: 315px;
 }
 
-.video_iframe:nth-of-type(2n) {
+.video__iframe:nth-of-type(2n) {
   margin-left: 20px;
 }
 
