@@ -1,13 +1,7 @@
 .table_theme_dark {
-  margin: 90px auto;
+  margin: 0 auto 90px auto;
 }
 
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
 
 .table__heading_theme_dark {
   color: white;
