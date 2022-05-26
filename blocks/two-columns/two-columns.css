@@ -5,21 +5,3 @@
   margin: 0 auto;
   width: 80%;
 }
-
-.two-columns__brief{
-  margin: 0;
-  align-self: flex-start;
-  width: 175px;
-  font-size: 18px;
-  line-height: 1.2;
-  color: #2f80ed;
-  font-weight: 400;
-}
-
-.two-columns__main-text{
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  min-width: 784px;
-  flex-basis: 80%;
-}

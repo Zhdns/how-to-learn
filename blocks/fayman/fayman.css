@@ -6,38 +6,10 @@
   position: relative;
   align-items: center;
 }
-.feyman__img {
-  width: 867px;
-  height: 637px;
-  position: absolute;
-  bottom: 0px;
-  left: 0px;
-}
 
-.feyman__title {
-font-size: 120px;
-line-height: 1.15;
-font-weight: 700;
-margin: 100px 0 70px 0;
-width: 648px;
-z-index: 2;
-text-align: center;
-}
 
-.feyman__subtitle{
-font-size: 36px;
-line-height: 51px;
-margin: 0;
-z-index: 1;
-font-weight: 400;
-}
 
-.feyman__link{
-font-size: 36px;
-line-height: 51px;
-position: absolute;
-top: 50%;
-right: 48px;
-text-decoration: none;
-color: #2f80ed;
-}
+
+
+
+
