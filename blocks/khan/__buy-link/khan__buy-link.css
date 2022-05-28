@@ -3,4 +3,5 @@
   font-size: 30px;
   color: #2f80ed;
   text-decoration: none;
+  align-self: flex-start;
 }
